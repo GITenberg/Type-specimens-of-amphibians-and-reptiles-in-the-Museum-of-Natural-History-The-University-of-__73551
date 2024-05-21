@@ -1,0 +1,32 @@
+_repo: Type-specimens-of-amphibians-and-reptiles-in-the-Museum-of-Natural-History-The-University-of-__73551
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Duellman, William Edward
+    alias: Duellman, William E. (William Edward)
+    birthdate: 1930
+    gutenberg_agent_id: '35075'
+    url: http://www.gutenberg.org/2009/agents/35075
+  - agent_name: Berg, Barbara
+    gutenberg_agent_id: '57113'
+    url: http://www.gutenberg.org/2009/agents/57113
+description: ''
+gutenberg_issued: '2024-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73551'
+language: en
+pgterms:marc905: 20070908185835duellman
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Carol Brown, Chris Curnow, Joseph Cooper and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLawrence KS :$bUniversity of Kansas, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Type specimens of amphibians and reptiles in the Museum of Natural History,
+  The University of Kansas
+url: http://www.gutenberg.org/ebooks/73551
